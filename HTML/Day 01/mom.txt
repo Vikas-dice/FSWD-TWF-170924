@@ -1,0 +1,86 @@
+
+Day 01 
+Date 18th sept , 2024
+
+Last Class - basic util setup , extensions , vs code setting 
+- client server architecture - request response architecture 
+
+
+HTML 
+Hyprertext Markup Lang 
+Markup - tags and annotations 
+
+tags = <vikas> 
+annotations - tags extra props -annotations
+
+Browser - tags and annotation - ui 
+
+
+
+revise - client server architecture
+
+
+
+html class 1 
+
+module 1 - textual data 
+heading 
+paragraph
+articles
+images 
+buttons 
+list 
+table
+
+
+Heading 
+
+
+
+element - opening tag + content +closing tag = element
+
+1- block element - page width , dusre element apne side m na ane de
+2-inline element
+
+
+list 
+
+1-sugar
+2-salt
+3-cold drinks
+4- chips 
+
+
+list - ordered list , unordered list , desc list
+
+
+ordered list - 1-2-3 ,a-,b-
+
+
+ordered- <ol>  
+<li></li>
+
+</ol>
+
+unordered list -
+
+ul - li
+
+
+image -  self closing -
+
+
+
+Homework -- list socials 
+
+list-facebook, youtube , linkedin , twitter
+list - education  10th, 12th , grads 
+
+
+
+
+table 
+
+
+
+

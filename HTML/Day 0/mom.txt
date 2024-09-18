@@ -1,0 +1,44 @@
+
+HTML = 
+noida gurgaon - high rise building 
+
+pillars beam - skelton- HTML
+color - laal pila hara neela gate shape , deasign , ceiling - CSS
+lift , main gate entry - js 
+
+html 
+
+client server architecture
+req response architecture
+
+
+client =BROWSER= chrome 
+
+chrome - client - fe -ui ---- request ---- server 
+
+server --- response --- ( html css js )-- BROWSER- files read -- ui show 
+
+
+
+html - hypertext markup language
+
+markup language- lang/text tags and annotations
+
+tags - <vikas> <dice> <tarun>
+annotations- tags k sath sath keyword 
+
+q1- html programming language ? BIG NO 
+
+2+2
+JS 2+2=4
+
+HYPERTEXT = HYPER LINKS 
+
+
+
+HTML - tags
+HUMAN - HEAD , BODY
+
+HTML - HEAD , BODY
+
+

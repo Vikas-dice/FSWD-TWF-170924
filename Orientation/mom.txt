@@ -1,0 +1,185 @@
+
+
+Orientation 
+
+Day 0 
+
+Vikas Chaudhary
+Btech 2017 
+Computer sc engg
+
+2- Sr backend engg (java springboot)
+3- edtech (cb cn pepcoding )
+
+Dice - Tech lead
+
+
+
+Question ? What is WEb dev ?
+
+website vs web apps ?
+
+
+Full Stack Web dev . > website X
+Tools, Web Apps  , Software 
+
+
+
+Full Stack - FE + BE 
+
+FE- UI-UX
+CLIENT
+BROWSER
+
+'
+BE- Business logic
+
+
+client server architecture /request resonse architecture 
+
+
+clinet - FE
+server - backend 
+
+server - multple serves 
+
+
+
+
+client server architecture
+
+
+
+FE - 
+tech stack 
+1-HTML
+2-CSS
+3-JAVASCRIPT - PROGRAMMING LANG (2+2=4)
+(VANILLA - CORE LANG)
+
+
+
+JS - JAVA PYTHON C C++ PYTHON C# .NET RUBY SWIFT 
+1- 2024 JS NUMBER 1
+2- 99% BROWSER - JS 
+BROWSER- CHROME 
+
+INDUSTRY - VANILLA/CORE X
+framework/lib 
+
+React js - ui lib  - js 
+Redux - data management 
+
+fe - react js - facebook - ui lib - js 
+
+--------------------------------------------
+
+BE - Business logic - server - data bases 
+be - java python c# js 
+
+
+js - vanilla/core 
+
+framework- Node js - run time env - tool - js code run
+express js  - server 
+
+Database -  cs - SQL and Nosql
+NoSQL = mongodb 
+sql = mysql
+
+
+-----------------------
+
+tech stack MERN
+M=mongodb
+E=EXPRESS 
+R=React
+N=NODE JS 
+ FULL FLEDEG APP. TOOL.WEBSITE Software
+
+
+
+Devops - ecosystem
+
+devops = dev + operation 
+
+devops - kubernetes and docker 
+
+Deployment - cloud 
+cloud - remote computer , data centre
+
+cloud - AWS Amazon web services - amazon 
+gcp - google 
+azure -microsoft
+
+aws - market share
+
+
+[MERN+DEVOPS(K8S,DOCKER)+AWS]
+
+
+USP - optimization 
+
+10k 1.5laks 
+
+cs - time complexity and space complexity
+apps/tool/Software- processing time 
+app/tool/Software- resource- ram Full
+
+time and space- optimization- DSA 
+Data structures and algo
+
+faang 
+facebookamazon
+microsoft
+google
+netflix
+pbc - adobe oracle airtel reliance 
+
+dsa - PROGRAMMING maths 
+
+leetcode , codechef , codeforces 
+
+
+[MERN+DEVOPS(K8S,DOCKER)+AWS+DSA]
+
+Core cs subjects - dbms , os , cn 
+
+System Design - LLD + HLD
+
+LLD - OOPS + DESIGN PATTERNS + SOLID PRINCIPLES
+HLD - CASE STUDIES (GOOGLE DRIVE , INSTAGRAM ARCH)
+
+
+
+
+MERN -FULL STACK DEV 
+DEVOPS - SDLC AUTOMATION - K8S AND DOCKER
+Deployment-AWS
+DSA-LEETCODE , CODECHEF CODEFORCES - C++/JAVA
+CORE CS -DBMS OS cn
+System DESIGN- LLD AND HLD (JAVA)
+
+-----------------------------------------------------------------------------------------------
+
+
+part 2 - util setup 
+
+ide - integrated dev env = code 
+ide = vs code 
+
+
+google - downlaod vs code 
+setting /extensions install 
+
+
+setting 1 - auto save
+setting 2 - word wrap on 
+
+
+extensions -
+1- live server 
+
+
+
+
